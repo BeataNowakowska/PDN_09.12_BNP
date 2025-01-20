@@ -39,6 +39,7 @@ INSERT INTO Bohaterowie (id_bohatera, imie, klasa, zdolnosci, zloto) VALUES
 (3, 'Gandalf', 'Mag', 'Magia, Poradnictwo', 200),
 (4, 'Boromir', 'Wojownik', 'Walka mieczem, Odwaga', 50),
 (5, 'Frodo', 'Zwiadowca', 'Skradanie się, Odporność na pokusy', 30);
+(6, 'Beata', 'Mag', 'Skradanie się, Odporność na pokusy', 30);
 
 -- Wstawianie danych do tabeli Misje
 INSERT INTO Misje (id_misji, nazwa, opis, nagroda) VALUES
